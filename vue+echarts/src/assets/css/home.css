@@ -1,0 +1,20 @@
+.home{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+.home ul{
+  width: 100%;
+}
+.home ul li{
+  width: 50%;
+  float: left;
+  list-style: none;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+/*#demo12{*/
+  /*min-width: calc(100vh);*/
+  /*min-height: calc(100vh);*/
+  /*position: fixed;*/
+/*}*/
